@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0;
+    width: 90%;
+}
+
+#left {
+    background-color: #7EE5DA; 
+    width: 37%;
+}
+
+#mid {  
+    background-color: #70CCC2;
+}
+
+#right {
+    background-color: #62B3AA;
+}
